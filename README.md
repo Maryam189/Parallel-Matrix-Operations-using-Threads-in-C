@@ -37,7 +37,7 @@ gcc -pthread -o matrix_operations1 matrix_operations1.c
 ```
 
 ## Contributing
-Interested in contributing? We welcome enhancements, bug fixes, and optimizations. Please send me a pull request or open an issue to discuss your ideas.
+Interested in contributing? We welcome enhancements, bug fixes, and optimizations. Please send me a pull request or open an issue to discuss your ideas. If there's anything else you'd like to know about it, let me know. Feel free to reach me out at Maryamkhalid590@gmail.com
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
